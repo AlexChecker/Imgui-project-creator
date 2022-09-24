@@ -1,5 +1,5 @@
 # Imgui-project-creator
-Bash script and resources to create ImGui glfw project
+Bash script and resources to create ImGui glfw project. Makefile and main.cpp was taken from the official repository to simplify the script
 
 ---
 This repository contains files and scripts for creating c++ project with using ImGui and GLFW libs. All you need is just sh file. 
