@@ -1,4 +1,6 @@
 #
+# This file was taken from the official ImGui repository to simplify the script
+#
 # Cross Platform Makefile
 # Compatible with MSYS2/MINGW, Ubuntu 14.04.1 and Mac OS X
 #
